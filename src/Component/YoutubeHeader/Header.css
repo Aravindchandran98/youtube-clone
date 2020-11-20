@@ -1,0 +1,16 @@
+#headerBlock {
+  background: #fff;
+  height: 60px;
+  padding: 0 20px;
+}
+.bg-light {
+  background: #fff !important;
+  height: 60px;
+  padding: 0 20px;
+}
+#HeaderBlock .logo {
+  width: 80px;
+}
+#HeaderBlock .bars {
+  margin: 0 24px 0 0;
+}
